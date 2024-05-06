@@ -5,3 +5,4 @@
 ||twttr.com^
 ||t.co^
 ||twimg.com^
+||x.com^
